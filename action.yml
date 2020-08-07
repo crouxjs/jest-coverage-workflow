@@ -1,6 +1,6 @@
-name: "Jest Coverage Report"
+name: "Jest Coverage Report with Logs"
 description: "Comments a pull request with the jest code coverage"
-author: "Raverdy Thomas"
+author: "Thomas Raverdy"
 branding:
   icon: "activity"
   color: "green"
